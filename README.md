@@ -1,5 +1,5 @@
 # project 2
-start the project once docker is up and working
+to start the project once docker is up and working
 
 start app:<br>
 >cd my-app<br>
