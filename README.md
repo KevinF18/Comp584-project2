@@ -1,5 +1,5 @@
 # project 2
-how to run the project once docker is up and working (docker-compose up --build)
+start the project once docker is up and working
 
 start app:<br>
 >cd my-app<br>
